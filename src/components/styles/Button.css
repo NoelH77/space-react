@@ -1,0 +1,21 @@
+.button {
+    background-color: var(--blue);
+    padding: 18px 26px;
+    border-radius: 5px;
+    font-size: 15px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    cursor: pointer;
+    border: none;
+    transition: background .2s ease-in-out;
+}
+
+.button i {
+    font-size: 60px;
+    font-weight: bold;
+    color: white;
+}
+.button:hover {
+    background-color: rgb(51, 127, 240);
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&family=Orbitron:wght@500&family=PT+Sans&family=Poppins:wght@300;400;600;700&display=swap');
+
+:root {
+  --blue: #1051ca;
+}
+
+body {
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+  font-family: 'Orbitron', sans-serif;
+}
+
+*, *::after, *::before {
+  box-sizing: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
